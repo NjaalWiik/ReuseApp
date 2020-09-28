@@ -6,8 +6,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Headline</Text>
-      <h1>Reuse App ♻️</h1>
-
       <StatusBar style='auto' />
     </View>
   );
